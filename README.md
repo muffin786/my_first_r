@@ -1,2 +1,3 @@
 # my_first_r
-this is my first repository- coursera
+this is my first repository
+
